@@ -1,0 +1,5 @@
+{
+  "name": "CIUEMA Coleção Ictiológica da Universidade Estadual do Maranhão",
+  "description": "Um catálogo colaborativo para gerenciar coleções ictiológicas. Permite aos usuários criar coleções, gerenciar acesso, adicionar, editar e apagar espécies com código, nome, foto e detalhes.",
+  "requestFramePermissions": []
+}
